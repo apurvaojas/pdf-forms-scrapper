@@ -1,0 +1,31 @@
+<html>
+  <head>
+    <title>Request Rejected</title>
+  </head>
+  <body>
+    <TABLE border="0" width="100%" cellpadding="0" cellspacing="0" align="center">
+        <TBODY>
+            <TR>
+                <TD align="center">		                            
+                    <IMG border="2" src="http://www.unitedhomelife.com/images/LandingPageBannerX.jpg" width="745" height="65">
+                </TD>
+			</TR>
+			<TR>
+				<TD>
+					<BR><BR><BR><BR><BR><BR><BR>
+				</TD>
+			</TR>
+			<TR>
+                <td align="center">
+					<font size="4" color="red" face="verdana">
+						Potential security violation - your session has been terminated.<br><br>
+						Please contact the UHL/UFFL Life Contact Center<br><br>
+						(800) 428-3001 option 5<br><br>
+						The support ID for this issue is: 4147371768370477123
+					</font>
+                </td>
+			</TR>
+		</TBODY>
+    </TABLE>
+  </body>
+</html>

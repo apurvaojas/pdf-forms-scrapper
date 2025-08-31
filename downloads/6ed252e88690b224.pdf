@@ -1,0 +1,79 @@
+
+<!DOCTYPE html>
+<html class="no-js" lang="en-au">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>No longer exists - Transport for NSW</title>
+
+  <meta name="robots" content="index,follow,noodp">
+  <meta name="googlebot" content="index,follow">
+
+  <meta name="url" content="https://www.transport.nsw.gov.au/news-and-events/application-forms">
+
+  <meta name="coverage" content="Worldwide">
+  <meta name="rating" content="General">
+  <meta name="geo.region" content="au-nsw">
+
+
+  <link rel="author" href="humans.txt">
+  <link rel="copyright" href="copyright.html">
+
+  <link rel="index" href="https://www.transport.nsw.gov.au/news-and-events/application-forms" title="Transport for NSW">
+
+  <link rel="shortcut icon" href="/errors/favicon.ico">
+
+  <style type="text/css" media="screen">
+    html {
+      font-family: sans-serif;
+      text-align: center;
+      color: #000000;
+    }
+
+    .header {
+      padding: 1em;
+    }
+
+    .tfnsw-logo {
+      margin: auto;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    p {
+      text-align: center
+    }
+
+    main {
+      max-width: 40em;
+      margin: auto;
+      text-align: left;
+    }
+
+  </style>
+
+</head>
+
+<body>
+  <!-- 404 -->
+  <header role="banner" class="header">
+    <h1 itemscope itemtype="http://schema.org/Organization" class="tfnsw-logo">
+      <img height="70px" alt="Transport for NSW"
+        src="https://tfnswforms.transport.nsw.gov.au/Transport_for_NSW_logo.png">
+    </h1>
+  </header>
+  <p> </p>
+  <p> </p>
+  <main>
+    <h1>This form no longer exists.</h1>
+    <p>Please refer to the <a href="https://www.transport.nsw.gov.au/news-and-events/application-forms">Transport for NSW Forms Hub</a> for all current customer facing application forms.
+    </p>
+  </main>
+
+</body>
+
+</html>

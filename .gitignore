@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+venv/
+.venv/
+#downloads/
+#pdf_metadata.db
+minio-data/
